@@ -7,6 +7,8 @@ gimana pun juga maish apakah bisa
 berapa line of code sih kalau begini ?
 tidak ada yang tahu
 
+tambah lagi
+test
 yang pasti kita coba dulu aja
 
 coba tditambah lagi
