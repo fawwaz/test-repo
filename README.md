@@ -1,4 +1,6 @@
 # test-repo
+ini misalnya apa ya 
+
 Test repostiroy
 ini misalnya kalau mau nambahin 
 gimana pun juga maish apakah bis
