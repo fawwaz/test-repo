@@ -1,5 +1,4 @@
 # test-repo
-ini misalnya apa ya 
 
 Test repostiroy
 ini misalnya kalau mau nambahin 
@@ -22,3 +21,5 @@ yang pasti kita coba dulu aja
 coba tditambah lagi
  tadi sih addition 8 deletion 2 
 berapab anyak sih sebnenray changesnys
+
+changes - 2 - adding more line here
