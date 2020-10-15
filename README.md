@@ -20,6 +20,4 @@ yang pasti kita coba dulu aja
 
 coba tditambah lagi
  tadi sih addition 8 deletion 2 
-berapab anyak sih sebnenray changesnys
-
-changes #1 - edwar
+berapab anyak sih #3 by edwar deletion
