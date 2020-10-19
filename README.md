@@ -1,8 +1,9 @@
 # test-repo
-ini misalnya apa ya 
+
+ini misalnya apa ya
 
 Test repostiroy
-ini misalnya kalau mau nambahin 
+ini misalnya kalau mau nambahin
 gimana pun juga maish apakah bis
 
 kalau ini ditambah gimanaya ?
@@ -20,5 +21,8 @@ test
 yang pasti kita coba dulu aja
 
 coba tditambah lagi
- tadi sih addition 8 deletion 2 
+tadi sih addition 8 deletion 2
 berapab anyak sih sebnenray changesnys
+
+Ardi tambah
+tambah lagi lah
