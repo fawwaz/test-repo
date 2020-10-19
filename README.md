@@ -22,3 +22,10 @@ yang pasti kita coba dulu aja
 coba tditambah lagi
  tadi sih addition 8 deletion 2 
 berapab anyak sih sebnenray changesnys
+this is fake commit
+this is fake commit
+this is fake commit
+this is fake commit
+this is fake commit
+this is fake commit
+this is fake commit
