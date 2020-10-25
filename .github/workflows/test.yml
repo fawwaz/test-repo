@@ -5,7 +5,7 @@ on : push
 jobs:
   teriak:
     name: Teriak aja
-    runs-on: ubunt-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Cuma echo
