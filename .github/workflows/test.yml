@@ -1,0 +1,12 @@
+name: Latihan
+
+on : push
+
+jobs:
+  teriak:
+    name: Teriak aja
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Cuma echo
+        run: echo "TEST"

@@ -24,3 +24,12 @@ coba tditambah lagi
 berapab anyak sih sebnenray changesnys
 
 changes #1 - edwar
+this is fake commit
+this is fake commit
+this is fake commit
+this is fake commit
+this is fake commit
+this is fake commit
+this is fake commit
+
+TEST
