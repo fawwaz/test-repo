@@ -1,13 +1,16 @@
-on: [push]
-
+on:
+  pull_request:
+    types: [opened, closed]
+  pull_request_review:
+    types: [submitted]
 jobs:
-  hello_world_job:
+  log_event_time:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: A job to log events
     steps:
       - name: Hello world action step
         id: hello
-        uses: fawwaz/test-action@v1.1
+        uses: fawwaz/test-action@v1.2
         with:
           who-to-greet: "Mona the Octocat"
       # Use the output from the `hello` step
