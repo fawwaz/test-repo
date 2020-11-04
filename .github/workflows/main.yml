@@ -1,3 +1,5 @@
+name: Nyatet Log
+
 on:
   pull_request:
     types: [opened, closed]
