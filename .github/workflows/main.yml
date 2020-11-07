@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: fawwaz/test-action@v1.2
+        uses: fawwaz/test-action@v1.3
         with:
           firebase-project-id: "${{ secrets.FIREBASE_PROJECT_ID }}"
           firebase-private-key-id: "${{ secrets.FIREBASE_PRIVATE_KEY_ID }}"
