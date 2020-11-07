@@ -12,9 +12,15 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: fawwaz/test-action@v1.1
+        uses: fawwaz/test-action@v1.2
         with:
-          who-to-greet: "Mona the Octocat"
-      # Use the output from the `hello` step
-      - name: Get the output time
-        run: echo "The time was ${{ steps.hello.outputs.time }}"
+          firebase-project-id: "${{ secrets.FIREBASE_PROJECT_ID }}"
+          firebase-private-key-id: "${{ secrets.FIREBASE_PRIVATE_KEY_ID }}"
+          firebase-private-key: "${{ secrets.FIREBASE_PRIVATE_KEY }}"
+          firebase-client-email: "${{ secrets.FIREBASE_CLIENT_EMAIL }}"
+          firebase-client-id: "${{ secrets.FIREBASE_CLIENT_ID }}"
+          firebase-auth-uri: "${{ secrets.FIREBASE_AUTH_URI }}"
+          firebase-token-uri: "${{ secrets.FIREBASE_TOKEN_URI }}"
+          firebase-auth-provider-x-509-cert-url: "${{ secrets.FIREBASE_AUTH_PROVIDER_X509_CERT_URL }}"
+          firebase-client-x-509-cert-url: "${{ secrets.FIREBASE_CLIENT_X509_CERT_URL }}"
+          organization-name: "fawwaz"
