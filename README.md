@@ -1,6 +1,10 @@
 # test-repo
 ini misalnya apa ya 
 
+
+ini kalau ditmabah apa ya
+misal ini juga
+
 Test repostiroy
 ini misalnya kalau mau nambahin 
 gimana pun juga maish apakah bis
